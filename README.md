@@ -59,8 +59,8 @@ A Windows Forms simulation of two elevator cars:
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SadipNeupane&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadipNeupane&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=SadipNeupane&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SadipNeupane&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
