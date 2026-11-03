@@ -22,7 +22,7 @@
 
 ### 🧑‍💻 About me
 
-- 🎓 Software development student working across **web, desktop and mobile**
+- 🎓 Software Engineering Student working across **web, desktop and mobile**
 - 🛠️ Main languages: **Java, C# and TypeScript**
 - 🌱 Currently learning: <!-- e.g. Spring Boot, .NET, testing, design patterns -->
 - 📍 Based in Nepal
