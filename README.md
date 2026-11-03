@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C72D9&center=true&vCenter=true&width=520&lines=Software+Development+Student;Java+%7C+C%23+%7C+TypeScript+%7C+Flutter;Building+web%2C+desktop+%26+mobile+apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C72D9&center=true&vCenter=true&width=520&lines=Software+Engineering+Student;Java+%7C+C%23+%7C+TypeScript+%7C+Flutter;Building+web%2C+desktop+%26+mobile+apps" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 
 ### 🧑‍💻 About me
 
-- 🎓 Software Engineering Student working across **web, desktop and mobile**
+- 🎓 Software Engineering student working across **web, desktop and mobile**
 - 🛠️ Main languages: **Java, C# and TypeScript**
 - 🌱 Currently learning: <!-- e.g. Spring Boot, .NET, testing, design patterns -->
 - 📍 Based in Nepal
